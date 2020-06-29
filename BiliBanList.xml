@@ -285,4 +285,5 @@
 <item enabled="true">r=.*(n|N)(t|T).*</item>
 <item enabled="true">r=.*厚\s*大.*</item>
 <item enabled="true">r=.*密.*恐.*</item>
+<item enabled="true">r=^[\u4e00-\u9fa5]{3}[，,][\u4e00-\u9fa5]{4}[，,][\u4e00-\u9fa5]{3}[，,。.？?！!…]*$</item>
 </filters>
