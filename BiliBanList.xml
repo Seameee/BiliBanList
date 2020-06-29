@@ -306,7 +306,7 @@
 <item enabled="true">t=顶端</item>
 <item enabled="true">t=联发</item>
 <item enabled="true">t=漂移</item>
-<item enabled="true">r=(■|▂|▃|▄|▅|▆|█)*</item>
+<item enabled="true">r=(■|▂|▃|▄|▅|▆|█)+</item>
 <item enabled="true">r=[什么怎啥].{0,5}会员|会员.{0,5}[什么怎啥啊]|会员.{0,8}世界</item>
 <item enabled="true">r=会员色</item>
 <item enabled="true">r=[\u4e00-\u9fa5]*别撸了</item>
