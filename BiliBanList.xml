@@ -72,8 +72,8 @@
 <item enabled="true">t=奥利给</item>
 <item enabled="true">t=贵</item>
 <item enabled="true">t=热量</item>
-<item enabled="true">t=.*呵呵.*</item>
-<item enabled="true">t=(■|▂|▃|▄|▅|▆|█)+</item>
+<item enabled="true">r=.*呵呵.*</item>
+<item enabled="true">r=(■|▂|▃|▄|▅|▆|█)+</item>
 <item enabled="true">r=[前第][一-十]</item>
 <item enabled="true">r=从.+来</item>
 <item enabled="true">r=\d+.\d+.\d+</item>
